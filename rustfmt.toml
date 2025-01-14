@@ -2,7 +2,7 @@ chain_indent = "Block"
 chain_split_single_child = true
 
 closure_block_indent_threshold = 0
-
+  
 condense_wildcard_suffixes = true
 
 fn_args_density = "CompressedIfEmpty"
